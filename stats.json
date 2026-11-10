@@ -1,0 +1,103 @@
+{
+ "generated_at": "2026-11-10T05:42:09Z",
+ "decks": 215,
+ "companies": 142,
+ "slides_described": 10637,
+ "decks_described": 213,
+ "median_slides_per_deck": 34,
+ "mean_words_per_slide": 97.7,
+ "share_of_slides_with_a_chart": 0.322,
+ "share_of_slides_with_a_table": 0.191,
+ "share_of_slides_with_a_photo": 0.291,
+ "mean_review_score": 6.69,
+ "review_score_distribution": {
+  "9": 1,
+  "8": 34,
+  "7": 100,
+  "6": 58,
+  "5": 17,
+  "4": 3
+ },
+ "by_category": [
+  {
+   "category": "Reporting decks",
+   "decks": 70,
+   "median_slides": 35.0,
+   "mean_review_score": 6.81,
+   "mean_words_per_slide": 133.2
+  },
+  {
+   "category": "Conference talks",
+   "decks": 60,
+   "median_slides": 54.5,
+   "mean_review_score": 6.82,
+   "mean_words_per_slide": 58.3
+  },
+  {
+   "category": "Investor pitch decks",
+   "decks": 33,
+   "median_slides": 17,
+   "mean_review_score": 6.24,
+   "mean_words_per_slide": 66.8
+  },
+  {
+   "category": "Strategy decks",
+   "decks": 18,
+   "median_slides": 35.0,
+   "mean_review_score": 6.83,
+   "mean_words_per_slide": 121.0
+  },
+  {
+   "category": "Sales decks",
+   "decks": 14,
+   "median_slides": 18.5,
+   "mean_review_score": 6.23,
+   "mean_words_per_slide": 132.3
+  },
+  {
+   "category": "Fund and private equity decks",
+   "decks": 7,
+   "median_slides": 43,
+   "mean_review_score": 6.57,
+   "mean_words_per_slide": 176.2
+  },
+  {
+   "category": "Recruiting decks",
+   "decks": 7,
+   "median_slides": 64,
+   "mean_review_score": 7.29,
+   "mean_words_per_slide": 41.1
+  },
+  {
+   "category": "Education and training decks",
+   "decks": 6,
+   "median_slides": 49.5,
+   "mean_review_score": 6.67,
+   "mean_words_per_slide": 83.1
+  }
+ ],
+ "by_year": {
+  "2004": 2,
+  "2006": 1,
+  "2007": 3,
+  "2008": 5,
+  "2009": 3,
+  "2010": 2,
+  "2011": 4,
+  "2012": 1,
+  "2013": 4,
+  "2014": 4,
+  "2015": 6,
+  "2016": 6,
+  "2017": 3,
+  "2018": 5,
+  "2019": 2,
+  "2020": 7,
+  "2021": 8,
+  "2022": 11,
+  "2023": 13,
+  "2024": 41,
+  "2025": 27,
+  "2026": 38
+ }
+}
